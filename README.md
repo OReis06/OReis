@@ -1,7 +1,7 @@
 # Oi sou Rudson Reis
 # 💫 Sobre:
-Sou estudante de Analise e Desenvolvimentos de Sistemas
-Começando minha carreira no Front End!
+Sou estudante de Analise e Desenvolvimento de Sistemas
+começando minha carreira no Front End!
 
 
 ## 🌐 Redes Sociais:
